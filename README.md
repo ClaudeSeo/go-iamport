@@ -1,4 +1,6 @@
 [![Build Status](https://travis-ci.org/ClaudeSeo/go-iamport.svg?branch=master)](https://travis-ci.org/ClaudeSeo/go-iamport)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 # go-iamport
 GoLang 아임포트(http://iamport.kr/) REST API Client
