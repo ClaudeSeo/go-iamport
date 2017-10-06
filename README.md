@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ClaudeSeo/go-iamport.svg?branch=master)](https://travis-ci.org/ClaudeSeo/go-iamport)
+
 # go-iamport
 GoLang 아임포트(http://iamport.kr/) REST API Client
 
