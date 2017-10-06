@@ -1,7 +1,7 @@
 package iamport
 
 import (
-	"github.com/claudeseo/go-iamport/form"
+	"github.com/ClaudeSeo/go-iamport/form"
 	"github.com/stretchr/testify/assert"
 	"testing"
 	"time"

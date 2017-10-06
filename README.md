@@ -7,13 +7,13 @@ GoLang 아임포트(http://iamport.kr/) REST API Client
 
 ## Installation
 ```shell
-$ go get github.com/claudeseo/go-iamport
+$ go get github.com/ClaudeSeo/go-iamport
 ```
 
 ## Usage
 ```go
 import (
-  "github.com/claudeseo/go-iamport"
+  "github.com/ClaudeSeo/go-iamport"
 )
 
 func main() {

@@ -3,7 +3,7 @@ package iamport
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/claudeseo/go-iamport/form"
+	"github.com/ClaudeSeo/go-iamport/form"
 	"github.com/parnurzeal/gorequest"
 	"reflect"
 )
